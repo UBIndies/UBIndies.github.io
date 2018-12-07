@@ -1,0 +1,17 @@
+@font-face {
+    font-family: dtmsans;
+    src: url(DTM-Sans.otf);
+}
+
+body {
+    background-color: black;
+    color: white;
+    font-family: dtmsans;
+    padding: 30px;
+    padding-top: 20px;
+    -webkit-font-smoothing: antialiased;
+}
+
+h1 {
+    font-size: 45px;
+}
